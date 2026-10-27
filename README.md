@@ -93,14 +93,14 @@ This list focuses on technologies you've mentioned learning or using. No React o
 
 </div>
 
-
+🔗 Find me online
 <p>
-    🔗 Find me online
+    
   <a href="https://github.com/anujgupta2808">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" style="position: relative;top: 10px;"/>
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile""/>
   </a>
   <a href="https://anujgupta2808.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio" style="position: relative;top: 10px;"/>
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio"/>
   </a>
 </p>
 
