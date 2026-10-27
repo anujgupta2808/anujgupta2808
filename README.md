@@ -44,16 +44,17 @@ This list focuses on technologies you've mentioned learning or using. No React o
       <h3>💸 ExpenseTracker</h3>
       A personal finance project for recording expenses and viewing spending summaries.
       <br/><br/>
-      <a href="https://github.com/anujgupta2808">
-        <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub repositories"/>
+      <a href="https://anujgupta2808.github.io/ExpenseTracker/">
+        <img src="https://img.shields.io/badge/OPEN%20ExpenseTracker-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open ExpenseTracker"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>📁 DocuServe</h3>
       A document-services website concept focused on file conversion and spreadsheet analysis.
       <br/><br/>
-      <a href="https://github.com/anujgupta2808">
-        <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub repositories"/>
+      <a href="https://anujgupta2808.github.io/DocuServe/">
+        <img src="https://img.shields.io/badge/OPEN%20DocuServe-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open DocuServe"/>
+      </a>
       </a>
     </td>
   </tr>
@@ -67,11 +68,11 @@ This list focuses on technologies you've mentioned learning or using. No React o
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 InventoryIQ</h3>
-      An inventory dashboard project exploring stock records, sales, purchases, and analytics.
+      <h3>📦 Procelya-AI</h3>
+      An AI-powered project for business workflow detection and diagram generation.
       <br/><br/>
-      <a href="https://github.com/anujgupta2808">
-        <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-334155?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub repositories"/>
+      <a href="https://vedantmh48-cpu.github.io/Procelya-AI/">
+        <img src="https://img.shields.io/badge/OPEN%20Procelya%20AI-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Procelya AI"/>
       </a>
     </td>
   </tr>
@@ -88,17 +89,18 @@ This list focuses on technologies you've mentioned learning or using. No React o
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujgupta2808&bg_color=ffffff&color=0e7490&line=2563eb&point=0891b2&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujgupta2808&bg_color=ffffff&color=0e7490&line=2563eb&point=0891b2&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/> -->
 
 </div>
 
-🔗 Find me online
+
 <p>
+    🔗 Find me online
   <a href="https://github.com/anujgupta2808">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" style="position: relative;top: 10px;"/>
   </a>
   <a href="https://anujgupta2808.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio" style="position: relative;top: 10px;"/>
   </a>
 </p>
 
