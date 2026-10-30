@@ -1,115 +1,330 @@
-<div align="center">
+ <div align="center">
 
-<!-- ANUJ GUPTA | ORIGINAL CYBER-SPACE THEME -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=ANUJ%20GUPTA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FRONTEND%20DEVELOPER%20%7C%20B.SC.%20IT%20STUDENT%20%7C%20CREATIVE%20BUILDER&descAlignY=62&descSize=16&fontAlign=50&color=0:050816,35:312E81,70:2563EB,100:06B6D4" width="100%" alt="Gojo-inspired blue and purple developer banner"/>
+<!-- ANUJ GUPTA | BLACK & CRIMSON PORTFOLIO THEME -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=800&lines=Building+websites+one+line+at+a+time.;Learning+today.+Creating+tomorrow.;Code+%2B+Design+%2B+Curiosity." alt="Animated coding tagline"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=ANUJ%20GUPTA&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=B.SC.%20IT%20STUDENT%20%7C%20FRONTEND%20DEVELOPER&descAlignY=60&descSize=18&color=0:050505,50:30000D,100:FF1744" width="100%" alt="Anuj Gupta Header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=19&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=850&lines=Building+Digital+Experiences+That+Feel+Different.;Code.+Create.+Learn.+Grow.;Turning+Ideas+Into+Real+Digital+Solutions.;Always+Learning.+Always+Building." alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://anujgupta2808.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/anujgupta2808">
+<img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/anuj-gupta-7aaabb2b9/">
+<img src="https://img.shields.io/badge/LINKEDIN-FF1744?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
-👨‍💻 A little about me
-Hi! I'm Anuj Gupta, a B.Sc. IT student and frontend developer interested in building useful, responsive, and visually clean websites.
-- 🎓 Currently studying SYBSc IT
-- 🌐 Interested in frontend and web development
-- 🧩 Practising programming and problem-solving
-- 🎨 Enjoy web design and graphic design
-- 🚀 Working towards becoming a software engineer
+---
+
+## <img src="https://img.shields.io/badge/01-ABOUT%20ME-FF1744?style=flat-square"/> About Me
+
+<img align="right" width="35%" src="./anuj-portrait.png" alt="Anuj Gupta Profile Photo"/>
+
+### Hello, I'm Anuj Gupta 👋
+
+I'm a **B.Sc. IT student and frontend developer** passionate about creating modern websites, exploring software development, and experimenting with AI-powered ideas.
+
+I enjoy transforming creative concepts into responsive, interactive, and meaningful digital experiences.
+
+- 🎓 Currently pursuing SYBSc IT.
+- 💻 Exploring frontend and software development.
+- 🌐 Building responsive web applications.
+- 🤖 Interested in AI-powered solutions.
+- 🎨 Passionate about UI design and graphic designing.
+- 🚀 Working towards becoming a Software Engineer.
+
+<br clear="right"/>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Web%20Development-0891B2?style=flat-square" alt="Focus: Web Development"/>
-  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-2563EB?style=flat-square" alt="Mindset: Always Learning"/>
+
+| 16+ | Project-Driven | Open to | Continuous |
+|:---:|:---:|:---:|:---:|
+| Public Repositories | Learning | Collaboration | Growth |
+
 </div>
 
-🧰 Tools I use and study
-Web development
+---
+
+## <img src="https://img.shields.io/badge/02-TECH%20STACK-FF1744?style=flat-square"/> Skills & Technologies
+
+### 🌐 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, and JavaScript icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
 </p>
 
-Programming and databases
+### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" alt="Python, Java, C, C++, and MySQL icons"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" alt="C C++ Python Java"/>
 </p>
 
-Workflow
+### 🗄️ Database & Development Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and VS Code icons"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL Git GitHub VS Code"/>
 </p>
 
-This list focuses on technologies you've mentioned learning or using. No React or Vite included.
+### 🎨 Other Skills
 
-🏗️ Projects
+<p>
+<img src="https://img.shields.io/badge/Graphic%20Design-FF1744?style=for-the-badge" alt="Graphic Design"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-FF1744?style=for-the-badge" alt="Advanced Excel"/>
+<img src="https://img.shields.io/badge/Advanced%20Tally-FF1744?style=for-the-badge" alt="Advanced Tally"/>
+<img src="https://img.shields.io/badge/MS%20Office-FF1744?style=for-the-badge" alt="MS Office"/>
+</p>
+
+---
+
+## <img src="https://img.shields.io/badge/03-FEATURED%20PROJECTS-FF1744?style=flat-square"/> Things I've Built
+
+<div align="center">
+
+### 🚀 Turning ideas into digital experiences
+
+</div>
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💸 ExpenseTracker</h3>
-      A personal finance project for recording expenses and viewing spending summaries.
-      <br/><br/>
-      <a href="https://anujgupta2808.github.io/ExpenseTracker/">
-        <img src="https://img.shields.io/badge/OPEN%20ExpenseTracker-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open ExpenseTracker"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📁 DocuServe</h3>
-      A document-services website concept focused on file conversion and spreadsheet analysis.
-      <br/><br/>
-      <a href="https://anujgupta2808.github.io/DocuServe/">
-        <img src="https://img.shields.io/badge/OPEN%20DocuServe-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open DocuServe"/>
-      </a>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfolio</h3>
-      My personal website to present my skills, work, and learning journey.
-      <br/><br/>
-      <a href="https://anujgupta2808.github.io/Portfolio/">
-        <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open portfolio website"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Procelya-AI</h3>
-      An AI-powered project for business workflow detection and diagram generation.
-      <br/><br/>
-      <a href="https://vedantmh48-cpu.github.io/Procelya-AI/">
-        <img src="https://img.shields.io/badge/OPEN%20Procelya%20AI-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Procelya AI"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💸 ExpenseTracker
+
+Personal finance management application for tracking expenses and understanding spending habits.
+
+<img src="https://img.shields.io/badge/FINANCE%20MANAGEMENT-FF1744?style=flat-square" alt="Finance Management"/>
+
+<br/><br/>
+
+<a href="https://anujgupta2808.github.io/ExpenseTracker/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/anujgupta2808/ExpenseTracker">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📁 DocuServe
+
+Smart document services platform focused on PDF conversion, document processing, and spreadsheet analysis.
+
+<img src="https://img.shields.io/badge/DOCUMENT%20PROCESSING-FF1744?style=flat-square" alt="Document Processing"/>
+
+<br/><br/>
+
+<a href="https://anujgupta2808.github.io/DocuServe-/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/anujgupta2808/DocuServe-">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 SoulTalk AI
+
+AI companion application exploring intelligent conversations, voice interaction, and emotional awareness.
+
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-FF1744?style=flat-square" alt="AI"/>
+
+<br/><br/>
+
+<a href="https://anujgupta2808.github.io/SoulTalkAI/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/anujgupta2808/SoulTalkAI">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 CodeQuiz
+
+Interactive programming quiz platform with 700+ questions across 8 programming languages, scoring, progress tracking, and bookmarks.
+
+<img src="https://img.shields.io/badge/LEARNING%20PLATFORM-FF1744?style=flat-square" alt="Learning Platform"/>
+
+<br/><br/>
+
+<a href="https://anujgupta2808.github.io/CodeQuiz/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/anujgupta2808/CodeQuiz">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Retro Games Collection
+
+A collection of browser-based games featuring classic arcade-style entertainment and interactive gameplay.
+
+<img src="https://img.shields.io/badge/HTML5%20GAMING-FF1744?style=flat-square" alt="HTML5 Gaming"/>
+
+<br/><br/>
+
+<a href="https://anujgupta2808.github.io/retro-games-collection/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/anujgupta2808/retro-games-collection">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💖 Ehsaas
+
+A soulful Shayari platform featuring Love, Sad, Motivation, and Life categories.
+
+<img src="https://img.shields.io/badge/CREATIVE%20WEB%20PLATFORM-FF1744?style=flat-square" alt="Creative Platform"/>
+
+<br/><br/>
+
+<a href="https://anujgupta2808.github.io/Ehsaas/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/anujgupta2808/Ehsaas">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🦸 Marvel Studios
+
+An immersive Marvel-themed website celebrating superheroes and cinematic experiences.
+
+<img src="https://img.shields.io/badge/INTERACTIVE%20WEB%20DESIGN-FF1744?style=flat-square" alt="Interactive Design"/>
+
+<br/><br/>
+
+<a href="https://anujgupta2808.github.io/Marvel-Studios/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/anujgupta2808/Marvel-Studios">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 ResumePro Builder
+
+Resume creation application designed to help users build and export professional resumes.
+
+<img src="https://img.shields.io/badge/PRODUCTIVITY%20TOOL-FF1744?style=flat-square" alt="Productivity Tool"/>
+
+<br/><br/>
+
+<a href="https://anujgupta2808.github.io/ResumePro-Builder/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/anujgupta2808/ResumePro-Builder">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</td>
+</tr>
 </table>
 
-<p><em>Replace the general repository links with each project's exact GitHub URL when ready. Only list projects you are comfortable demonstrating.</em></p>
-
-📈 GitHub activity
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anujgupta2808&show_icons=true&hide_border=true&theme=transparent&title_color=0891B2&icon_color=2563EB&text_color=64748B" width="48%" alt="GitHub account statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgupta2808&layout=compact&hide_border=true&theme=transparent&title_color=0891B2&text_color=64748B&langs_count=6" width="42%" alt="Most used programming languages"/>
-
-
-
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujgupta2808&bg_color=ffffff&color=0e7490&line=2563eb&point=0891b2&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/> -->
+<a href="https://github.com/anujgupta2808?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-FF1744?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+</a>
 
 </div>
 
-🔗 Find me online
-<p>
-    
-  <a href="https://github.com/anujgupta2808">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile""/>
-  </a>
-  <a href="https://anujgupta2808.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio"/>
-  </a>
-</p>
+---
 
-<!-- Add your LinkedIn link after confirming the exact profile URL. -->
+## <img src="https://img.shields.io/badge/04-EDUCATION-FF1744?style=flat-square"/> Education
+
+| Qualification | Performance |
+|:---|:---:|
+| SSC (10th) | 77% |
+| HSC (12th) | 83.67% |
+| FYBSc IT – Semester 1 | 8.89 SGPA |
+| FYBSc IT – Semester 2 | 8.73 SGPA |
+| SYBSc IT | Currently Pursuing |
+
+---
+
+## <img src="https://img.shields.io/badge/05-GITHUB%20ACTIVITY-FF1744?style=flat-square"/> GitHub Statistics
 
 <div align="center">
 
-LEARN → BUILD → TEST → IMPROVE
-Small steps. Useful projects. Continuous progress.
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:164E63,100:101827" width="100%" alt="Blue teal footer banner"/>
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=anujgupta2808&theme=dark&hide_border=true&background=050505&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A1A1AA" alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/06-CONNECT-FF1744?style=flat-square"/> Let's Connect
+
+<div align="center">
+
+### Have an idea? Let's build something amazing.
+
+I'm always interested in learning, collaborating, and exploring new opportunities.
+
+<br/>
+
+<a href="https://github.com/anujgupta2808">
+<img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anuj-gupta-7aaabb2b9/">
+<img src="https://img.shields.io/badge/LinkedIn-FF1744?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://anujgupta2808.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### CODE. CREATE. LEARN. GROW.
+
+*Building digital experiences that feel different.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF1744,50:30000D,100:050505" width="100%" alt="Crimson Footer"/>
 
 </div>
